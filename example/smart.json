@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "backbone-relational": {
+      "path": ".."
+    },
+    "luma-ui": {}
+  }
+}
