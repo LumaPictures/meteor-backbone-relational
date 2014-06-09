@@ -19,8 +19,8 @@ Package.on_use(function (api, where) {
   ], ['client','server']);
 
   api.add_files([
-    'lib/backbone.coffee',
-    'lib/backbone.relational.coffee',
+    'lib/backbone.js',
+    'lib/backbone.relational.js',
     'lib/backbone.scopes.coffee'
   ], [ 'client', 'server' ]);
 });
