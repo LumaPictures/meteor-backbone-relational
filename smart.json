@@ -3,7 +3,7 @@
   "description": "Client and Server models for handling relational data.",
   "homepage": "https://github.com/LumaPictures/meteor-backbone-relational",
   "author": "Austin Rivas <austinrivas@gmail.com> (https://github.com/austinrivas/)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/LumaPictures/meteor-backbone-relational",
   "packages": {}
 }
