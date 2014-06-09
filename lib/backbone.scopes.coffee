@@ -1,5 +1,5 @@
-@Models = {}
-@Collections = {}
+Models = {}
+Collections = {}
 
 if Meteor.isClient
 	scope = window

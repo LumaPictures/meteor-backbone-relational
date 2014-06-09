@@ -21,6 +21,4 @@ $ mrt && meteor test-packages backbone-relational
 
 ## Usage
 
-## Styling
-
 ## Contributing

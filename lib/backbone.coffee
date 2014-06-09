@@ -7,7 +7,7 @@
 
 # Initial Setup
 # -------------
-@Backbone = Backbone = {}
+Backbone = {}
 
 
 # Create local references to array methods we'll want to use later.

@@ -8,6 +8,10 @@ Package.on_use(function (api, where) {
     'underscore'
   ],[ 'client', 'server' ]);
 
+  api.use([
+    'jquery'
+  ], [ 'client' ]);
+
   api.export([
     "Backbone",
     "Models",
